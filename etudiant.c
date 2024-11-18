@@ -34,9 +34,6 @@ void Saisir_Tab_Etd(Etudiant Tab[], int* N)
 
     }while (strcmp(rep, "oui")==0);
     *N=i;
-    
-    
-
 }
 void Affiche_etd(Etudiant e)
 {
@@ -62,6 +59,12 @@ void Affiche_Tab_etd(Etudiant Tab[], int N)
 
 int Rechercher_Etd(Etudiant Tab[], int N,int ident)
 {
-
+    for(int i=0;i<N; i++){
+        if(Tab[i].identifiant==ident){
+            return i;
+        }
+    }
+    
+            
     return -1;
 }
