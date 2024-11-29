@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1732571345 source:c:\users\win10\onedrive\bureau\work\enit\mini projet\the store app\mini projet\etudiant.c
+	"etudiant.h"
+	<stdio.h>
+	<string.h>
+
+1732571402 c:\users\win10\onedrive\bureau\work\enit\mini projet\the store app\mini projet\etudiant.h
+
+1732572292 source:c:\users\win10\onedrive\bureau\work\enit\mini projet\the store app\mini projet\main.c
+	<stdio.h>
+	"etudiant.h"
+	<stdlib.h>
+	<string.h>
+
+1732571345 source:c:\users\win10\onedrive\bureau\work\enit\mini projet\code blocs\etudiant.c
+	"etudiant.h"
+	<stdio.h>
+	<string.h>
+
+1732571402 c:\users\win10\onedrive\bureau\work\enit\mini projet\code blocs\etudiant.h
+
+1732648985 source:c:\users\win10\onedrive\bureau\work\enit\mini projet\code blocs\main.c
+	<stdio.h>
+	"etudiant.h"
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1732634987 source:c:\users\win10\onedrive\bureau\work\enit\mini projet\code blocs\gst\gst\main.c
+	<stdio.h>
+	"gsts.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1732634884 c:\users\win10\onedrive\bureau\work\enit\mini projet\code blocs\gst\gst\gsts.h
+
+1732651274 source:c:\users\win10\onedrive\bureau\work\enit\mini projet\code blocs\gst\gst\gsts..c
+	<stdio.h>
+	"gsts.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
